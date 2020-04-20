@@ -2,7 +2,7 @@ isPrivate=""; // var which tells me if the note is private or public
 isEditable="";//var which tells me if the note is editable or not
 isLogged=""; // var which tells me if the user has verified his Access Password
 
-address="http://84.232.199.159:8080";
+address="http://onlinenotes.hopto.org";
 
 window.onload = function(){
 	editEnabled=""; //edit enabled tells me if the user has verified the Edit Password
