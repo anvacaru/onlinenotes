@@ -6,3 +6,6 @@ Create and share your notes with your friends through special access keys. Make 
 
 You can set an access password and a different editing password if you need extra protection on your thoughts and plans and share it simple via an URL path.
 
+
+In order to run .js tests please install the dependencies from package.json.
+Then, you can try to run them with command line: npm test
