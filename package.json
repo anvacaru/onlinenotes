@@ -1,0 +1,26 @@
+{
+    "name": "OnlineNotes",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "mmunteanu",
+    "contributors": [],
+    "dependencies": {
+        "form-data": "^3.0.0"
+    },
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "chai-http": "^4.3.0",
+        "mocha": "^4.1.0",
+        "request": "^2.88.2",
+        "selenium-webdriver": "^3.6.0"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
